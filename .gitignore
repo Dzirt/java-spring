@@ -1,0 +1,4 @@
+# Project exclude paths
+/java-ee/target/
+.idea
+java-spring.iml
